@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azka</h1>
-<h3 align="center">A passionate web frontend developer, web backend developer, game programmer, Augmented Reality Engineer, and Photographer from Indonesia.</h3>
+<h3 align="center">A passionate web frontend developer, web backend developer, game programmer, augmented reality Engineer, and Photographer from Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazkaaa&label=Profile%20views&color=0e75b6&style=flat" alt="mazkaaa" /> </p>
 
